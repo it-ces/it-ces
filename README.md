@@ -1,7 +1,6 @@
 # 👋 Hola, soy Iván Trujillo Abella
 
 🎓 Economista con Maestría en Inteligencia Artificial
-👨‍🏫 Profesor y creador de contenido educativo
 
 ---
 
