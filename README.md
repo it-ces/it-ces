@@ -1,40 +1,53 @@
-# 👋 Hola, soy Iván Trujillo Abella
+# Iván Trujillo Abella
 
-🎓 Economista con Maestría en Inteligencia Artificial
+Economist | M.Sc. in Artificial Intelligence  
 
----
-
-## 🧠 Sobre mí
-
-Soy un economista enfocado en la intersección entre **Inteligencia Artificial, Optimización y Economía**.
-Me interesa desarrollar modelos que capturen comportamientos complejos, especialmente en contextos financieros y sociales.
-
-
-## 🔬 Áreas de interés
-
-* ⚙️ Optimización matemática
-* 🧬 Metaheurísticas (Genetic Algorithms, Grey Wolf Optimizer, etc.)
-* 🎲 Teoría de juegos (cooperativos y no cooperativos)
-* 🤖 Sistemas multiagente (MAS)
-* 📈 Machine Learning aplicado a economía y finanzas
+I work at the intersection of economics, machine learning, optimization, and agent-based modeling. My research and teaching focus on applying computational methods to economic problems, including credit risk, metaheuristics, and game theory.
 
 ---
 
-## 📚 Docencia y contenido
+## 🔗 Links
 
-Comparto parte de mi material académico y clases en:
+- 🌐 Website: https://ai-page.readthedocs.io/
+- 💼 LinkedIn: https://www.linkedin.com/in/iván-trujillo-abella-1a683419a/
+- 📧 Email: ivantrujillo1229@gmail.com
 
-🌐 https://ai-page.readthedocs.io/en/latest/
+---
 
-Ahí encontrarás contenido sobre:
+## 📊 Areas of Work
 
-* Machine Learning
-* Probabilidad y estadística
-* Modelación y optimización
+- Machine Learning applied to Economics  
+- Optimization & Metaheuristics  
+- Agent-Based Modeling (ABM)  
+- Game Theory  
+- Credit Risk Modeling  
 
+---
 
-## 📫 Contacto
+## 🧠 Current Focus
 
-* 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván%20Trujillo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iv%C3%A1n-trujillo-abella-1a683419a/)
-* 📧 Email: ivantrujillo1229@gmail.com
+- Evolutionary algorithms (DEAP, Genetic Programming)  
+- Fairness in Machine Learning  
+- Multi-Agent Systems  
+- Economic simulation models  
 
+---
+
+## 📚 Teaching
+
+I develop educational material in:
+
+- Python for Data Science  
+- Statistics & Probability  
+- Econometrics  
+- Machine Learning  
+- Optimization  
+
+All content available on my microsite:
+👉 https://ai-page.readthedocs.io/
+
+---
+
+## ⚙️ Technologies
+
+Python, Stata, Pyomo, DEAP, Scikit-learn, Fairlearn
