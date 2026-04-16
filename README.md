@@ -33,13 +33,6 @@ Ahí encontrarás contenido sobre:
 * Probabilidad y estadística
 * Modelación y optimización
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=radical)
-
----
 
 ## 📫 Contacto
 
